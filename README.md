@@ -20,6 +20,8 @@ Ein leistungsstarkes, GUI-basiertes Python-Werkzeug zur vollautomatischen Stapel
 
 ## 📸 Benutzeroberfläche
 
+<screenshoot>
+
 Das zweispaltige Layout trennt die Steuerungselemente sauber von der visuellen Rückmeldung:
 
 * **Linke Spalte**: Pfadauswahl für Quellordner, Zielordner sowie die Bilddateien (Logos), inklusive Fortschrittsbalken und Echtzeit-Verarbeitungsprotokoll.
