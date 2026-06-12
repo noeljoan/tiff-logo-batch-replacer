@@ -20,7 +20,7 @@ Ein leistungsstarkes, GUI-basiertes Python-Werkzeug zur vollautomatischen Stapel
 
 ## 📸 Benutzeroberfläche
 
-<screenshoot>
+![Dashboard](screenshot.png)
 
 Das zweispaltige Layout trennt die Steuerungselemente sauber von der visuellen Rückmeldung:
 
